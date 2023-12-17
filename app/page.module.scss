@@ -1,0 +1,15 @@
+.filter_btn {
+  color: #2e78ce;
+  border: 1px solid #2e78ce;
+  background-color: #fff;
+  border-radius: 10px;
+
+  &:hover,
+  &:focus,
+  &:active,
+  &:visited {
+    border: 1px solid #2e78ce;
+    background-color: #2e78ce;
+    color:#fff;
+  }
+}
